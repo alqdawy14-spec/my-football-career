@@ -1,0 +1,10 @@
+{
+  "name": "My Path Football Career",
+  "short_name": "My Path",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#061426",
+  "theme_color": "#061426",
+  "lang": "ar",
+  "dir": "rtl"
+}
